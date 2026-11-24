@@ -45,3 +45,21 @@ Claude Code と MCP (Unity / Roblox Studio 連携) を使った AI 支援開発�
 [discord-bot-render-template](https://github.com/ichidesu/discord-bot-render-template): a minimal scaffold for deploying a Python Discord bot to Render's free Web Service.
 
 Render の無料 Web Service に Python 製 Discord bot をデプロイするための最小構成テンプレートです。
+
+## Skills / スキル
+
+Python: building and running asynchronous Discord bots with discord.py, from moderation features to matching systems.
+
+Python: discord.py を使った非同期 Discord bot の開発と運用。モデレーション機能からマッチング機能まで対応しています。
+
+IT fundamentals: working knowledge of networking, security and software development basics.
+
+IT の基礎: ネットワーク、セキュリティ、ソフトウェア開発の基礎知識があります。
+
+Game and 3D: Roblox games in Luau, and Unity and Blender work for VRChat.
+
+ゲーム・3D: Luau による Roblox ゲーム開発と、VRChat 向けの Unity / Blender 制作。
+
+Deployment: shipping small bots and web apps on Render and Vercel with Git and GitHub.
+
+デプロイ: Git / GitHub を使い、Render や Vercel で小規模な bot や Web アプリを公開しています。
