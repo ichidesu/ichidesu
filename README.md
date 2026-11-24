@@ -20,7 +20,7 @@ Independent developer based in Japan. I build Discord bots, Roblox games, and Un
 
 **Tools and Hosting**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## What I work on / 取り組んでいること
 
@@ -35,16 +35,6 @@ Roblox Studio と Luau によるゲーム開発。
 Unity and Blender workflows for VRChat worlds and avatar tooling.
 
 VRChat 向けワールドやアバター関連ツールのための Unity / Blender 制作。
-
-AI-assisted development with Claude Code and MCP integrations for Unity and Roblox Studio.
-
-Claude Code と MCP (Unity / Roblox Studio 連携) を使った AI 支援開発。
-
-## Featured project / 代表プロジェクト
-
-[discord-bot-render-template](https://github.com/ichidesu/discord-bot-render-template): a minimal scaffold for deploying a Python Discord bot to Render's free Web Service.
-
-Render の無料 Web Service に Python 製 Discord bot をデプロイするための最小構成テンプレートです。
 
 ## Skills / スキル
 
@@ -63,3 +53,9 @@ Game and 3D: Roblox games in Luau, and Unity and Blender work for VRChat.
 Deployment: shipping small bots and web apps on Render and Vercel with Git and GitHub.
 
 デプロイ: Git / GitHub を使い、Render や Vercel で小規模な bot や Web アプリを公開しています。
+
+## Featured project / 代表プロジェクト
+
+[discord-bot-render-template](https://github.com/ichidesu/discord-bot-render-template): a minimal scaffold for deploying a Python Discord bot to Render's free Web Service.
+
+Render の無料 Web Service に Python 製 Discord bot をデプロイするための最小構成テンプレートです。
